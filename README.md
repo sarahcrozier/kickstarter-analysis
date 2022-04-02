@@ -7,9 +7,10 @@ To assist the client in making the most judicial desicions regarding their proje
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The analysis of outcomes based on launch date is analyzed into three catagories (successful, failed and canceled). 
+The analysis of outcomes based on launch date is divided into three catagories (successful, failed and canceled) campaigns. Using the Kickstarter challenge excel data, the Unix timestamp was converted into a readable date with day, month and year. The data was than filtered to show only theater campaigns and a pivot table was created to give a visual representation of the data.  
 
 ### Analysis of Outcomes Based on Goals
+The analysis of outcomes based on goals is divided into the same three catagories. Using the Kickstarted challenge excell data a table was created dividing the goal data further dollar amount into ranges. The COUNTIFS() formula was used to calculate the number and than the percentage of in each range. This analysis yeild the visual representation of the goal vs the outcome of the campaign. 
 
 ### Challenges and Difficulties Encountered
 - The principle challenge that was encountered when analyzing this data was creating the outcome based on goals. This formula was a bit complitcated to work out all the aspects. 
