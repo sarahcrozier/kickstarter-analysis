@@ -13,7 +13,7 @@ The analysis of outcomes based on launch date is divided into three catagories (
 
 ### Analysis of Outcomes Based on Goals
 The analysis of outcomes based on goals is divided into the same three catagories. Using the Kickstarted challenge excell data a table was created dividing the goal data further dollar amount into ranges. The COUNTIFS() formula was used to calculate the number and than the percentage of in each range. This analysis yeild the visual representation of the goal vs the outcome of the campaign. 
-![]ReadMeImages/Outcomes_vs_Goals.png
+![Graph of Outcomes vs Goals](ReadMeImages/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 - The principle challenge that was encountered when analyzing this data was creating the outcome based on goals. This formula was a bit complitcated to work out all the aspects. 
