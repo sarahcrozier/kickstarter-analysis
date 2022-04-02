@@ -8,7 +8,8 @@ To assist the client in making the most judicial desicions regarding their proje
 
 ### Analysis of Outcomes Based on Launch Date
 The analysis of outcomes based on launch date is divided into three catagories (successful, failed and canceled) campaigns. Using the Kickstarter challenge excel data, the Unix timestamp was converted into a readable date with day, month and year. The data was than filtered to show only theater campaigns and a pivot table was created to give a visual representation of the data.  
-![Graphy of Outcome Based on Launch Date]ReadMeImages/Outcomes_Launchdates.png
+![Graph of Outcome Based on Launch Date](ReadMeImages/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 The analysis of outcomes based on goals is divided into the same three catagories. Using the Kickstarted challenge excell data a table was created dividing the goal data further dollar amount into ranges. The COUNTIFS() formula was used to calculate the number and than the percentage of in each range. This analysis yeild the visual representation of the goal vs the outcome of the campaign. 
